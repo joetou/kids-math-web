@@ -1,0 +1,349 @@
+{
+  "version": 4,
+  "source_preserved": "questions.json",
+  "patches": [
+    {
+      "topic_id": "money-mult-03",
+      "path": [
+        "demo_question"
+      ],
+      "value": {
+        "zh": "布甸而家做特價，每買 3 個就送多 1 個。每個布甸要 17 元 90 仙。媽媽一共拎走 4 個布甸，其中 1 個免費，一共要畀幾多錢？",
+        "en": "Puddings are on sale: buy 3 and get 1 free. Each pudding costs 17 dollars and 90 cents. Mum takes home 4 puddings in total, including 1 free pudding. How much should she pay?"
+      },
+      "reason": "釐清4個為連贈品在內的總數，並非付費買4個。"
+    },
+    {
+      "topic_id": "div-rem-05",
+      "path": [
+        "practice",
+        1,
+        "question"
+      ],
+      "value": {
+        "zh": "餅店職員將 74 個月餅平均裝入 6 個禮盒裏面。每個禮盒有幾多個月餅？仲淨低幾多個月餅？",
+        "en": "A bakery worker packs 74 mooncakes equally into six gift boxes. How many mooncakes are there in each gift box? How many mooncakes are left?"
+      },
+      "reason": "修正「月份」筆誤。"
+    },
+    {
+      "topic_id": "money-mult-10",
+      "path": [
+        "practice",
+        0,
+        "question"
+      ],
+      "value": {
+        "zh": "每盒雞蛋要 $28。媽媽買咗半打（6 盒）雞蛋，一共要畀幾多錢？",
+        "en": "Each carton of eggs costs $28. Mum bought half dozen cartons of eggs. How much should she pay?"
+      },
+      "reason": "釐清半打是6盒，和單價及英文一致。"
+    },
+    {
+      "topic_id": "money-mult-10",
+      "path": [
+        "practice",
+        0,
+        "guided_steps",
+        0
+      ],
+      "value": {
+        "zh": "半打即係 6 盒雞蛋，算式係 28 × 6。",
+        "en": "Half a dozen cartons means 6 cartons: 28 × 6."
+      },
+      "reason": "明確數量單位為盒。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "title"
+      ],
+      "value": {
+        "zh": "睇牙醫嘅時間小秘密",
+        "en": "When does the dentist visit end?"
+      },
+      "reason": "計算結果未過中午，刪去標題的過午暗示。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "kid_solution_steps",
+        3
+      ],
+      "value": {
+        "zh": "52 分未滿 60 分，唔使進位；小時仍然係上午 11 時，結果係上午 11 時 52 分 36 秒。",
+        "en": "52 minutes is less than 60, so there is no carry to the hour. The result is 11:52:36 a.m.; it has not passed noon."
+      },
+      "reason": "更正未過中午的時段判斷。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "final_answer"
+      ],
+      "value": {
+        "zh": "睇完嗰陣係上午 11 時 52 分 36 秒。",
+        "en": "He finished at 11:52:36 a.m."
+      },
+      "reason": "11:20:15 + 00:32:21 = 11:52:36。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "visual_assets",
+        "end_clock"
+      ],
+      "value": {
+        "h": 11,
+        "m": 52,
+        "s": 36,
+        "period": "a.m.",
+        "label_zh": "結束時間",
+        "label_en": "End Time"
+      },
+      "reason": "同步修正答案鐘面。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "practice",
+        0,
+        "guided_steps",
+        2
+      ],
+      "value": {
+        "zh": "分鐘加完係 34 分，唔使再加一次 10 分；小時仍然係上午 9 時，合埋係幾點幾分幾秒？",
+        "en": "The minute result is 34; do not add the starting 10 minutes again. Keep the hour at 9 a.m. and combine the hour, minutes and seconds."
+      },
+      "reason": "避免重複加起始分鐘。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "practice",
+        0,
+        "answer"
+      ],
+      "value": {
+        "zh": "到達嗰陣係上午 9 時 34 分 30 秒。",
+        "en": "He arrived at 9:34:30 a.m."
+      },
+      "reason": "09:10:12 + 00:24:18 = 09:34:30。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "practice",
+        0,
+        "visual_assets",
+        "end_clock"
+      ],
+      "value": {
+        "h": 9,
+        "m": 34,
+        "s": 30,
+        "period": "a.m."
+      },
+      "reason": "同步修正答案鐘面。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "practice",
+        1,
+        "guided_steps",
+        2
+      ],
+      "value": {
+        "zh": "56 分未滿 60 分，唔使向小時進位；時間仍然係上午 11 時，合埋係幾點幾分幾秒？",
+        "en": "56 minutes is less than 60, so there is no carry to the hour. It is still 11 a.m. Combine the hour, minutes and seconds."
+      },
+      "reason": "更正未過中午的時段判斷。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "practice",
+        1,
+        "answer"
+      ],
+      "value": {
+        "zh": "熄火嗰陣係上午 11 時 56 分 10 秒。",
+        "en": "She turned off the stove at 11:56:10 a.m."
+      },
+      "reason": "11:35:40 + 00:20:30 = 11:56:10。"
+    },
+    {
+      "topic_id": "time-end-15",
+      "path": [
+        "practice",
+        1,
+        "visual_assets",
+        "end_clock"
+      ],
+      "value": {
+        "h": 11,
+        "m": 56,
+        "s": 10,
+        "period": "a.m."
+      },
+      "reason": "同步修正答案鐘面。"
+    },
+    {
+      "topic_id": "quiz-time-17",
+      "path": [
+        "kid_solution_steps",
+        1
+      ],
+      "value": {
+        "zh": "分針已過 3 字、未到下一小格，表示已過 15 分；秒數再睇秒針。",
+        "en": "The minute hand has passed 3 but has not reached the next small tick, so 15 whole minutes have passed. Read the seconds from the second hand."
+      },
+      "reason": "和分針隨秒數微調的精準鐘面一致。"
+    },
+    {
+      "topic_id": "quiz-time-17",
+      "path": [
+        "practice",
+        0,
+        "question"
+      ],
+      "value": {
+        "zh": "一個三針時鐘顯示：時針喺 2 同 3 之間，分針已過 4 字、未到下一小格，秒針指住 6 字，時間係喺上午。當時係幾點幾分幾秒？",
+        "en": "A three-hand clock shows the hour hand between 2 and 3; the minute hand has passed 4 but not the next small tick; and the second hand points to 6. It is in the morning. What time is it?"
+      },
+      "reason": "分針包含秒數微調，改用已過整分鐘的描述。"
+    },
+    {
+      "topic_id": "quiz-time-17",
+      "path": [
+        "practice",
+        0,
+        "guided_steps",
+        1
+      ],
+      "value": {
+        "zh": "分針已過 4 字、未到下一小格：4 × 5 = 20 分。",
+        "en": "The minute hand has passed 4 but not the next tick: 4 × 5 = 20 whole minutes."
+      },
+      "reason": "同步修正鐘面讀數提示。"
+    },
+    {
+      "topic_id": "quiz-time-17",
+      "path": [
+        "practice",
+        1,
+        "question"
+      ],
+      "value": {
+        "zh": "一個三針時鐘顯示：時針喺 6 同 7 之間，分針已過 7 字後第 2 小格、未到第 3 小格，秒針指住 10 字後第 3 小格，時間係喺下午。當時係幾點幾分幾秒？",
+        "en": "A three-hand clock shows the hour hand between 6 and 7; the minute hand has passed the second small tick after 7 but has not reached the third; and the second hand points to the third small tick after 10. It is in the afternoon. What time is it?"
+      },
+      "reason": "分針包含秒數微調，改用已過整分鐘的描述。"
+    },
+    {
+      "topic_id": "quiz-time-17",
+      "path": [
+        "practice",
+        1,
+        "guided_steps",
+        1
+      ],
+      "value": {
+        "zh": "分針已過 7 字後第 2 小格、未到第 3 小格：7 × 5 + 2 = 37 分。",
+        "en": "The minute hand has passed the second small tick after 7, but not the third: 7 × 5 + 2 = 37 whole minutes."
+      },
+      "reason": "同步修正鐘面讀數提示。"
+    },
+    {
+      "topic_id": "quiz-time-20",
+      "path": [
+        "demo_question"
+      ],
+      "value": {
+        "zh": "另一場「校際問答比賽」喺下午 6 時 28 分 46 秒結束，成個活動一共進行咗 2 小時 13 分鐘 40 秒。咁成個活動係幾點幾分幾秒開始嘅呢？",
+        "en": "Another Interschool Quiz ended at six twenty-eight and forty-six seconds in the afternoon. The whole event ran for 2 hours, 13 minutes and 40 seconds. What time did the whole event start?"
+      },
+      "reason": "明確為獨立比賽，避免和第17題開始時間互相矛盾。"
+    },
+    {
+      "topic_id": "unit-convert-21",
+      "path": [
+        "practice",
+        1,
+        "question"
+      ],
+      "value": {
+        "zh": "記錄以下長度為單一單位：(a) 90000 m = 幾多 km？ (b) 一條跑步路線全長 42 公里，即係幾多 metres（m）？",
+        "en": "Record each measurement in a single unit: (a) 90000 m = how many km? (b) A running route is 42 kilometres long, which is how many metres?"
+      },
+      "reason": "保留42公里換算數值，不以正式馬拉松賽程作事實描述。"
+    },
+    {
+      "topic_id": "unit-convert-21",
+      "path": [
+        "practice",
+        1,
+        "guided_steps",
+        1
+      ],
+      "value": {
+        "zh": "(b) 42 公里乘 1000 換做米，等於幾多 metres？",
+        "en": "(b) Multiply the 42-kilometre route by 1000 to convert it to metres."
+      },
+      "reason": "和修正後情境一致。"
+    },
+    {
+      "topic_id": "unit-choose-22",
+      "path": [
+        "practice",
+        0,
+        "question"
+      ],
+      "value": {
+        "zh": "喺 km / m / cm / mm 入面揀啱單位：(a) 一道門嘅高度通常大約係 210 ____； (b) 一個學校禮堂大約闊 30 ____。",
+        "en": "Choose the suitable unit from km / m / cm / mm: (a) The height of a door is usually around 210 ____; (b) A school hall is about 30 ____ wide."
+      },
+      "reason": "30米的闊度改用合理的禮堂情境。"
+    },
+    {
+      "topic_id": "unit-choose-22",
+      "path": [
+        "practice",
+        0,
+        "guided_steps",
+        0
+      ],
+      "value": {
+        "zh": "(a) 門高 210 cm 即係 2.1 米，所以填 cm。",
+        "en": "(a) A 210 cm door is 2.1 metres high. Choose cm."
+      },
+      "reason": "更正2米等於210cm的錯誤等式。"
+    },
+    {
+      "topic_id": "unit-choose-22",
+      "path": [
+        "practice",
+        0,
+        "guided_steps",
+        1
+      ],
+      "value": {
+        "zh": "(b) 學校禮堂闊 30 米屬合理的長度，所以填 m。",
+        "en": "(b) A school hall can be 30 metres wide. Choose m."
+      },
+      "reason": "和禮堂情境一致。"
+    },
+    {
+      "topic_id": "quiz-time-17",
+      "path": [
+        "demo_question"
+      ],
+      "value": {
+        "zh": "三針時鐘顯示「校際問答比賽」嘅開始時間。比賽喺下午開始，當時係幾點幾分幾秒？",
+        "en": "The three-hand clock shows the start time of the Interschool Quiz. The quiz started in the afternoon. What time was it?"
+      },
+      "reason": "刪去「右邊」位置描述，配合電腦及手機的不同排版。"
+    }
+  ]
+}
