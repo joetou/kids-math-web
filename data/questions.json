@@ -1,0 +1,1333 @@
+[
+  {
+    "category": "精明小買家：元與角／仙乘法大挑戰",
+    "topic_id": "money-mult-01",
+    "title": "蘋果汁嘅帳單小秘密",
+    "demo_question": {
+      "zh": "每盒蘋果汁要 8 元 10 仙。如果買 6 盒蘋果汁，一共要比幾多錢呢？",
+      "en": "Each carton of apple juice costs 8 dollars and 10 cents. To buy 6 cartons of apple juice, how much should be paid?"
+    },
+    "kid_solution_steps": [
+      "列式：8 元 10 仙 × 6",
+      "計仙：10 仙 × 6 = 60 仙",
+      "計元：8 元 × 6 = 48 元",
+      "合共：48 元 60 仙（$48.60）"
+    ],
+    "final_answer": {
+      "zh": "一共要比 48 元 60 仙（或 $48.60）。",
+      "en": "48 dollars and 60 cents (or $48.60) should be paid."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "每支飲品 4 元 20 仙，買 3 支一共要幾多錢？",
+          "en": "Each drink costs 4 dollars and 20 cents. How much should be paid to buy 3 drinks?"
+        },
+        "guided_steps": [
+          "算式係 4 元 20 仙 × 3，先計 20 仙 × 3 有幾多仙？",
+          "再計 4 元 × 3 有幾多元？",
+          "將元同仙合埋，答案係幾多？"
+        ],
+        "answer": {
+          "zh": "一共要畀 12 元 60 仙（或 $12.60）。",
+          "en": "12 dollars and 60 cents (or $12.60) should be paid."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "每個麵包 3 元 75 仙，買 4 個一共要幾多錢？",
+          "en": "Each bun costs 3 dollars and 75 cents. How much should be paid to buy 4 buns?"
+        },
+        "guided_steps": [
+          "先計 75 仙 × 4 有幾多仙？",
+          "100 仙換 1 元，呢啲仙可以換到幾多元？仲剩幾多仙？",
+          "再計 3 元 × 4 有幾多元，最後全部加埋係幾多？"
+        ],
+        "answer": {
+          "zh": "一共要畀 15 元（或 $15）。",
+          "en": "15 dollars (or $15) should be paid."
+        }
+      }
+    ]
+  },
+  {
+    "category": "精明小買家：元與角／仙乘法大挑戰",
+    "topic_id": "money-mult-02",
+    "title": "米餅舖嘅早上大生意",
+    "demo_question": {
+      "zh": "每包米餅要 36 元 80 仙。今朝賣咗 5 包米餅，舖頭一共收到幾多錢？",
+      "en": "Each packet of rice biscuits costs 36 dollars and 80 cents. 5 packets of rice biscuits were sold in the morning. How much money did the shop get?"
+    },
+    "kid_solution_steps": [
+      "列式：36 元 80 仙 × 5",
+      "計仙：80 仙 × 5 = 400 仙（即 4 元，剩 0 仙）",
+      "計元：36 元 × 5 = 180 元",
+      "合共：180 元 + 4 元 = 184 元（$184）"
+    ],
+    "final_answer": {
+      "zh": "舖頭一共收到 184 元（或 $184）。",
+      "en": "The shop got 184 dollars (or $184)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "每支原子筆要 12 元 50 仙，買 4 支一共要幾多錢？",
+          "en": "Each ballpoint pen costs 12 dollars and 50 cents. How much should be paid to buy 4 pens?"
+        },
+        "guided_steps": [
+          "先計 50 仙 × 4 有幾多仙？",
+          "100 仙換 1 元，可以換到幾多元？仲剩幾多仙？",
+          "再計 12 元 × 4 有幾多元，最後加埋係幾多？"
+        ],
+        "answer": {
+          "zh": "一共要畀 50 元（或 $50）。",
+          "en": "50 dollars (or $50) should be paid."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "每個橙要 6 元 75 仙，買 6 個一共要幾多錢？",
+          "en": "Each orange costs 6 dollars and 75 cents. How much should be paid to buy 6 oranges?"
+        },
+        "guided_steps": [
+          "先計 75 仙 × 6 有幾多仙？",
+          "100 仙換 1 元，可以換到幾多元？仲剩幾多仙？",
+          "再計 6 元 × 6 有幾多元，最後將元同淨低嘅仙合埋係幾多？"
+        ],
+        "answer": {
+          "zh": "一共要畀 40 元 50 仙（或 $40.50）。",
+          "en": "40 dollars and 50 cents (or $40.50) should be paid."
+        }
+      }
+    ]
+  },
+  {
+    "category": "精明小買家：元與角／仙乘法大挑戰",
+    "topic_id": "money-mult-03",
+    "title": "布甸買三送一嘅着數密碼",
+    "demo_question": {
+      "zh": "布甸而家做特價，每買 3 個布甸就送多 1 個。每個布甸要 17 元 90 仙。媽媽買咗 4 個布甸，一共要畀幾多錢？",
+      "en": "Puddings are now on sale. To buy every 3 puddings, you get another pudding for free. Each pudding costs 17 dollars and 90 cents. Mum buys 4 puddings. How much should she pay?"
+    },
+    "kid_solution_steps": [
+      "分清買同送：4 個入面有 3 個畀錢、1 個免費送，所以只計 3 個：17 元 90 仙 × 3",
+      "計仙同換元：90 仙 × 3 = 270 仙 = 2 元 70 仙",
+      "計元：17 元 × 3 = 51 元",
+      "合共：51 元 + 2 元 70 仙 = 53 元 70 仙（$53.70）"
+    ],
+    "final_answer": {
+      "zh": "媽媽一共要畀 53 元 70 仙（或 $53.70）。",
+      "en": "She should pay 53 dollars and 70 cents (or $53.70)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "曲奇餅做特價，每買 2 盒送多 1 盒。每盒曲奇餅要 14 元 30 仙。哥哥拎走 3 盒曲奇餅，一共要畀幾多錢？",
+          "en": "Cookies are on sale. To buy every 2 boxes, you get another box for free. Each box of cookies costs 14 dollars and 30 cents. Brother gets 3 boxes of cookies. How much should he pay?"
+        },
+        "guided_steps": [
+          "3 盒入面有 1 盒免費送，真正要畀錢買嘅有幾多盒？",
+          "先計 30 仙 × 2 有幾多仙？",
+          "再計 14 元 × 2 有幾多元，最後合埋係幾多？"
+        ],
+        "answer": {
+          "zh": "哥哥一共要畀 28 元 60 仙（或 $28.60）。",
+          "en": "He should pay 28 dollars and 60 cents (or $28.60)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "雪糕做特價，每買 3 杯送多 1 杯。每杯雪糕要 9 元 60 仙。姐姐拎走 4 杯雪糕，一共要畀幾多錢？",
+          "en": "Ice cream is on sale. To buy every 3 cups, you get another cup for free. Each cup of ice cream costs 9 dollars and 60 cents. Sister gets 4 cups of ice cream. How much should she pay?"
+        },
+        "guided_steps": [
+          "4 杯入面有 1 杯免費送，真正要畀錢嘅有幾多杯？",
+          "先計 60 仙 × 3 有幾多仙？100 仙換 1 元，可以換到幾多元，剩幾多仙？",
+          "再計 9 元 × 3 有幾多元，最後全部加埋係幾多？"
+        ],
+        "answer": {
+          "zh": "姐姐一共要畀 28 元 80 仙（或 $28.80）。",
+          "en": "She should pay 28 dollars and 80 cents (or $28.80)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "精明小買家：特價優惠與整十數乘法大挑戰",
+    "topic_id": "money-mult-04",
+    "title": "書店大減價嘅特價秘密",
+    "demo_question": {
+      "zh": "書店做緊大減價，每本故事書原價 $40，而家特價 $38。Tommy 買咗 20 本故事書，一共要畀幾多錢？",
+      "en": "The bookshop is having a sale. Each storybook: Original price $40, Special price $38. Tommy buys 20 storybooks, how much should he pay?"
+    },
+    "kid_solution_steps": [
+      "揀啱價錢：劃走原價 $40，用特價 $38 列式：38 × 20",
+      "先藏起個 0：先計 38 × 2 = 76",
+      "補返個 0 落尾：76 × 10 = 760（$760）"
+    ],
+    "final_answer": {
+      "zh": "他一共要畀 760 元（或 $760）。",
+      "en": "He should pay 760 dollars (or $760)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "玩具車大減價，每架原價 $30，而家特價 $24。小明買咗 10 架玩具車，一共要畀幾多錢？",
+          "en": "Toy cars are on sale. Each toy car: Original price $30, Special price $24. Ming buys 10 toy cars, how much should he pay?"
+        },
+        "guided_steps": [
+          "減價要用特價 $24，買 10 架算式係幾多？",
+          "先計 24 × 1，再喺後面補返 1 個 0，答案係幾多？"
+        ],
+        "answer": {
+          "zh": "他一共要畀 240 元（或 $240）。",
+          "en": "He should pay 240 dollars (or $240)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "畫筆套裝做特價，每盒原價 $50，而家特價 $46。學校買咗 30 盒做獎品，一共要畀幾多錢？",
+          "en": "Colouring sets are on sale. Each set: Original price $50, Special price $46. The school buys 30 sets as prizes, how much should they pay?"
+        },
+        "guided_steps": [
+          "用特價 $46 買 30 盒，算式係 46 × 30。",
+          "先藏起個 0，計 46 × 3 等於幾多？（提示：40 × 3 + 6 × 3）",
+          "最後喺尾補返 1 個 0，一共要畀幾多錢？"
+        ],
+        "answer": {
+          "zh": "學校一共要畀 1380 元（或 $1380）。",
+          "en": "They should pay 1380 dollars (or $1380)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "平分大作戰：有餘數除法應用題",
+    "topic_id": "div-rem-05",
+    "title": "精品店擺裙大考驗",
+    "demo_question": {
+      "zh": "精品店職員將 38 條連身裙平均擺放喺 3 個架上面。每個架有幾多條連身裙？仲淨低幾多條連身裙？",
+      "en": "A salesperson places 38 dresses equally on three shelves. How many dresses are there on each shelf? How many dresses are left?"
+    },
+    "kid_solution_steps": [
+      "列式：38 ÷ 3",
+      "分十位：3 ÷ 3 = 1（1 個十），剩 0",
+      "分個位：8 ÷ 3 = 2（2 條），2 × 3 = 6，8 - 6 = 2（剩 2 條）",
+      "橫式：38 ÷ 3 = 12（條）…… 2（條）"
+    ],
+    "final_answer": {
+      "zh": "每個架有 12 條連身裙，仲淨低 2 條連身裙。",
+      "en": "There are 12 dresses on each shelf, and 2 dresses are left."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "老師將 29 本故事書平均擺放喺 2 個書架上面。每個書架有幾多本故事書？仲淨低幾多本故事書？",
+          "en": "A teacher places 29 storybooks equally on two bookshelves. How many storybooks are there on each bookshelf? How many storybooks are left?"
+        },
+        "guided_steps": [
+          "29 本書平均放落 2 個書架，算式係 29 ÷ 2。",
+          "先分十位：2 ÷ 2 = 1（1 個十）；再分個位：9 ÷ 2，每個書架分到幾多本，仲淨低幾多本？",
+          "合埋寫出每個書架有幾多本同淨低幾多本。"
+        ],
+        "answer": {
+          "zh": "每個書架有 14 本故事書，仲淨低 1 本故事書。",
+          "en": "There are 14 storybooks on each bookshelf, and 1 storybook is left."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "餅店職員將 74 個月餅平均裝入 6 個禮盒裏面。每個禮盒有幾多個月份？仲淨低幾多個月份？",
+          "en": "A bakery worker packs 74 mooncakes equally into six gift boxes. How many mooncakes are there in each gift box? How many mooncakes are left?"
+        },
+        "guided_steps": [
+          "74 個月餅平均裝入 6 個禮盒，算式係 74 ÷ 6。",
+          "先分十位：7 ÷ 6 = 1（1 個十），剩 1 個十；合埋個位 4 即係 14。",
+          "再計 14 ÷ 6：每個禮盒分到幾多個？6 乘幾多最接近 14？減完仲淨低幾多個？"
+        ],
+        "answer": {
+          "zh": "每個禮盒有 12 個月餅，仲淨低 2 個月餅。",
+          "en": "There are 12 mooncakes in each gift box, and 2 mooncakes are left."
+        }
+      }
+    ]
+  },
+  {
+    "category": "精明小買家：除法計單價大挑戰",
+    "topic_id": "money-div-06",
+    "title": "陳太太買恤衫嘅價錢秘密",
+    "demo_question": {
+      "zh": "精品店而家做特價。陳太太用 $94 買咗 2 件價錢相同嘅恤衫。每件恤衫幾多錢？",
+      "en": "The boutique is on sale now. Ms. Chan buys 2 shirts of the same price with $94. What is the price of each shirt?"
+    },
+    "kid_solution_steps": [
+      "列式：94 ÷ 2",
+      "分十位：9 ÷ 2 = 4（4 個十），4 × 2 = 8，9 - 8 = 1（剩 1 個十）",
+      "合埋個位再分：剩低嘅 1 個十拍埋個位 4 變成 14，14 ÷ 2 = 7",
+      "橫式：94 ÷ 2 = 47（元）"
+    ],
+    "final_answer": {
+      "zh": "每件恤衫 47 元（或 $47）。",
+      "en": "The price of each shirt is 47 dollars (or $47)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "文具店做特價。小明用 $72 買咗 3 本價錢相同嘅筆記簿。每本筆記簿幾多錢？",
+          "en": "The stationery shop is on sale now. Ming buys 3 notebooks of the same price with $72. What is the price of each notebook?"
+        },
+        "guided_steps": [
+          "3 本相同價錢嘅筆記簿一共 $72，算式係 72 ÷ 3。",
+          "先分十位：7 ÷ 3 = 2（2 個十），剩 1 個十；拍埋個位 2 變成 12。",
+          "再計 12 ÷ 3 等於幾多，每本筆記簿幾多錢？"
+        ],
+        "answer": {
+          "zh": "每本筆記簿 24 元（或 $24）。",
+          "en": "The price of each notebook is 24 dollars (or $24)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "運動店做減價。爸爸用 $96 買咗 4 對價錢相同嘅運動襪。每對運動襪幾多錢？",
+          "en": "The sports shop is on sale now. Dad buys 4 pairs of sports socks of the same price with $96. What is the price of each pair of socks?"
+        },
+        "guided_steps": [
+          "4 對相同價錢嘅運動襪一共 $96，算式係 96 ÷ 4。",
+          "先分十位：9 ÷ 4 = 2（2 個十），剩 1 個十；拍埋個位 6 變成 16。",
+          "再計 16 ÷ 4 等於幾多，用乘法驗算後寫出每對幾多錢。"
+        ],
+        "answer": {
+          "zh": "每對運動襪 24 元（或 $24）。",
+          "en": "The price of each pair of socks is 24 dollars (or $24)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "平分大作戰：最多分到幾多份大挑戰",
+    "topic_id": "div-floor-07",
+    "title": "襪仔包裝工廠嘅數量秘密",
+    "demo_question": {
+      "zh": "將 76 對襪每 5 對包裝成一包。最多可以包裝成幾多包？",
+      "en": "Divide 76 pairs of socks into packs of 5 pairs. How many packs are there at most?"
+    },
+    "kid_solution_steps": [
+      "列式：76 ÷ 5",
+      "分十位：7 ÷ 5 = 1（1 個十），7 - 5 = 2（剩 2 個十）",
+      "合埋個位再分：剩低嘅 2 個十拍埋個位 6 變成 26，26 ÷ 5 = 5（包）…… 1（對）",
+      "處理餘數：剩低 1 對唔夠 5 對，包唔成一包，所以最多有 15 包"
+    ],
+    "final_answer": {
+      "zh": "最多可以包裝成 15 包。",
+      "en": "There are 15 packs at most."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "將 67 塊餅乾每 4 塊裝成一袋。最多可以裝成幾多袋？",
+          "en": "Divide 67 biscuits into bags of 4 biscuits. How many bags are there at most?"
+        },
+        "guided_steps": [
+          "67 塊餅乾每 4 塊裝成一袋，算式係 67 ÷ 4。",
+          "先分十位：6 ÷ 4 = 1（1 個十），剩 2 個十；拍埋個位 7 變成 27。",
+          "再計 27 ÷ 4 = 6（袋）…… 3（塊），剩低 3 塊唔夠一袋，最多有幾多袋？"
+        ],
+        "answer": {
+          "zh": "最多可以裝成 16 袋。",
+          "en": "There are 16 bags at most."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "將 95 支鉛筆每 6 支捆成一束。最多可以捆成幾多束？",
+          "en": "Divide 95 pencils into bundles of 6 pencils. How many bundles are there at most?"
+        },
+        "guided_steps": [
+          "95 支鉛筆每 6 支捆成一束，算式係 95 ÷ 6。",
+          "先分十位：9 ÷ 6 = 1（1 個十），剩 3 個十；拍埋個位 5 變成 35。",
+          "再計 35 ÷ 6 = 5（束）…… 5（支），剩低 5 支唔夠一束，最多有幾多束？"
+        ],
+        "answer": {
+          "zh": "最多可以捆成 15 束。",
+          "en": "There are 15 bundles at most."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間與人工小管家：睇表計工時與人工大挑戰",
+    "topic_id": "time-wage-08",
+    "question_type": "grouped_with_table",
+    "title": "李先生星期三嘅人工秘密",
+    "context_data": {
+      "description": {
+        "zh": "下表顯示李先生過去四日嘅工作時間：",
+        "en": "The table shows the working hours of Mr. Lee in the past four days:"
+      },
+      "table": [
+        { "day": "Monday", "day_zh": "星期一", "start": "8:00 a.m.", "end": "6:00 p.m." },
+        { "day": "Tuesday", "day_zh": "星期二", "start": "8:30 a.m.", "end": "8:30 p.m." },
+        { "day": "Wednesday", "day_zh": "星期三", "start": "9:00 a.m.", "end": "8:00 p.m." },
+        { "day": "Thursday", "day_zh": "星期四", "start": "8:30 a.m.", "end": "6:30 p.m." }
+      ]
+    },
+    "demo_question": {
+      "zh": "李先生嘅時薪係 $32。(a) 星期三，李先生工作咗幾多小時？ (b) 星期三，佢嘅人工係幾多錢？",
+      "en": "The wage of Mr. Lee is $32 each hour. (a) On Wednesday, how many hours did Mr. Lee work? (b) On Wednesday, how much was his wage?"
+    },
+    "sub_questions": [
+      {
+        "label": "a",
+        "question": {
+          "zh": "星期三，李先生工作咗幾多小時？",
+          "en": "On Wednesday, how many hours did Mr. Lee work?"
+        },
+        "answer": { "zh": "11 小時", "en": "11 hours" }
+      },
+      {
+        "label": "b",
+        "question": {
+          "zh": "星期三，佢嘅人工係幾多錢？",
+          "en": "On Wednesday, how much was his wage?"
+        },
+        "answer": { "zh": "352 元（或 $352）", "en": "352 dollars (or $352)" }
+      }
+    ],
+    "kid_solution_steps": [
+      "睇表計工時（星期三 9:00 a.m. 至 8:00 p.m.）：上午 3 小時 + 下午 8 小時 = 11 小時",
+      "列式計人工：32 × 11",
+      "拆數快算：32 × 10 = 320，32 × 1 = 32，320 + 32 = 352（$352）"
+    ],
+    "final_answer": {
+      "zh": "(a) 星期三，李先生工作咗 11 小時。 (b) 星期三，佢嘅人工係 352 元（或 $352）。",
+      "en": "(a) On Wednesday, Mr. Lee worked for 11 hours. (b) On Wednesday, his wage was 352 dollars (or $352)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "睇返上面李先生嘅時間表（時薪 $32）。(a) 星期一，李先生工作咗幾多小時？ (b) 星期一，佢嘅人工係幾多錢？",
+          "en": "Refer to Mr. Lee's working hours table above (hourly wage $32). (a) On Monday, how many hours did Mr. Lee work? (b) On Monday, how much was his wage?"
+        },
+        "guided_steps": [
+          "星期一由 8:00 a.m. 到 6:00 p.m.，上午 4 小時加下午 6 小時，一共幾多小時？",
+          "用時薪 $32 乘返工時（32 × 10），星期一人工係幾多錢？"
+        ],
+        "answer": {
+          "zh": "(a) 星期一，李先生工作咗 10 小時。 (b) 星期一，佢嘅人工係 320 元（或 $320）。",
+          "en": "(a) On Monday, Mr. Lee worked for 10 hours. (b) On Monday, his wage was 320 dollars (or $320)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "睇返上面李先生嘅時間表（時薪 $32）。(a) 星期二，李先生工作咗幾多小時？ (b) 星期二，佢嘅人工係幾多錢？",
+          "en": "Refer to Mr. Lee's working hours table above (hourly wage $32). (a) On Tuesday, how many hours did Mr. Lee work? (b) On Tuesday, how much was his wage?"
+        },
+        "guided_steps": [
+          "星期二由 8:30 a.m. 到 8:30 p.m.，啱啱過咗幾多小時？",
+          "算式係 32 × 12，拆做 32 × 10 ＋ 32 × 2 嚟計，星期二人工係幾多錢？"
+        ],
+        "answer": {
+          "zh": "(a) 星期二，李先生工作咗 12 小時。 (b) 星期二，佢嘅人工係 384 元（或 $384）。",
+          "en": "(a) On Tuesday, Mr. Lee worked for 12 hours. (b) On Tuesday, his wage was 384 dollars (or $384)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間與人工小管家：比較時薪與兩位數乘法大挑戰",
+    "topic_id": "time-wage-09",
+    "question_type": "grouped_context",
+    "title": "爸爸上星期嘅人工大結算",
+    "context_data": {
+      "description": {
+        "zh": "承接上一題，李先生嘅時薪係 $32。",
+        "en": "Following the previous question, the hourly wage of Mr. Lee is $32."
+      }
+    },
+    "demo_question": {
+      "zh": "爸爸嘅時薪比李先生多 $16。(a) 爸爸嘅時薪係幾多錢？ (b) 上星期，爸爸工作咗 44 小時。佢嘅人工係幾多錢？",
+      "en": "The hourly wage of Dad is $16 more than that of Mr. Lee. (a) What is the hourly wage of Dad? (b) Last week, Dad worked 44 hours. What was his wage?"
+    },
+    "sub_questions": [
+      {
+        "label": "a",
+        "question": {
+          "zh": "爸爸嘅時薪係幾多錢？",
+          "en": "What is the hourly wage of Dad?"
+        },
+        "answer": { "zh": "48 元（或 $48）", "en": "$48" }
+      },
+      {
+        "label": "b",
+        "question": {
+          "zh": "上星期，爸爸工作咗 44 小時。佢嘅人工係幾多錢？",
+          "en": "Last week, Dad worked 44 hours. What was his wage?"
+        },
+        "answer": { "zh": "2112 元（或 $2112）", "en": "2112 dollars (or $2112)" }
+      }
+    ],
+    "kid_solution_steps": [
+      "計爸爸時薪（(a) 題）：32 + 16 = 48（$48）",
+      "列式計人工（(b) 題）：48 × 44",
+      "直式分兩層：48 × 4 = 192，48 × 40 = 1920",
+      "兩層加埋：192 + 1920 = 2112（$2112）"
+    ],
+    "final_answer": {
+      "zh": "(a) 爸爸嘅時薪係 48 元（或 $48）。 (b) 上星期，佢嘅人工係 2112 元（或 $2112）。",
+      "en": "(a) The hourly wage of Dad is $48. (b) Last week, his wage was 2112 dollars (or $2112)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "承接李先生嘅時薪（$32），媽媽嘅時薪比李先生多 $8。(a) 媽媽嘅時薪係幾多錢？ (b) 上星期，媽媽工作咗 25 小時。佢嘅人工係幾多錢？",
+          "en": "Refer to Mr. Lee's hourly wage ($32). The hourly wage of Mum is $8 more than that of Mr. Lee. (a) What is the hourly wage of Mum? (b) Last week, Mum worked 25 hours. What was her wage?"
+        },
+        "guided_steps": [
+          "媽媽比李先生多 $8，先計 32 + 8 = 40（媽媽時薪 $40）。",
+          "算式係 40 × 25：先計 40 × 5 = 200，再計 40 × 20 = 800。",
+          "兩層加埋，媽媽上星期人工係幾多錢？"
+        ],
+        "answer": {
+          "zh": "(a) 媽媽嘅時薪係 40 元（或 $40）。 (b) 上星期，佢嘅人工係 1000 元（或 $1000）。",
+          "en": "(a) The hourly wage of Mum is $40. (b) Last week, her wage was 1000 dollars (or $1000)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "承接李先生嘅時薪（$32），叔叔嘅時薪比李先生多 $24。(a) 叔叔嘅時薪係幾多錢？ (b) 上星期，叔叔工作咗 36 小時。佢嘅人工係幾多錢？",
+          "en": "Refer to Mr. Lee's hourly wage ($32). The hourly wage of Uncle is $24 more than that of Mr. Lee. (a) What is the hourly wage of Uncle? (b) Last week, Uncle worked 36 hours. What was his wage?"
+        },
+        "guided_steps": [
+          "叔叔比李先生多 $24，先計 32 + 24 = 56（叔叔時薪 $56）。",
+          "算式係 56 × 36：先計第一層 56 × 6 = 336。",
+          "再計第二層 56 × 30 = 1680（記得個位補 0），最後兩層加埋係幾多錢？"
+        ],
+        "answer": {
+          "zh": "(a) 叔叔嘅時薪係 56 元（或 $56）。 (b) 上星期，佢嘅人工係 2016 元（或 $2016）。",
+          "en": "(a) The hourly wage of Uncle is $56. (b) Last week, his wage was 2016 dollars (or $2016)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "精明小買家：生活詞彙譯碼與三位數乘法大挑戰",
+    "topic_id": "money-mult-10",
+    "title": "爸爸買半打恤衫嘅密碼",
+    "demo_question": {
+      "zh": "每件恤衫要 $142。爸爸買咗半打恤衫，一共要畀幾多錢？",
+      "en": "Each shirt costs $142. Dad bought half dozen shirts. How much should he pay?"
+    },
+    "kid_solution_steps": [
+      "解碼半打：1 打 = 12，半打（half dozen）= 6 件，列式：142 × 6",
+      "乘個位：2 × 6 = 12，寫 2 進 1",
+      "乘十位：4 × 6 + 1 = 25，寫 5 進 2",
+      "乘百位：1 × 6 + 2 = 8，合共 852（$852）"
+    ],
+    "final_answer": {
+      "zh": "他一共要畀 852 元（或 $852）。",
+      "en": "He should pay 852 dollars (or $852)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "每盒雞蛋要 $28。媽媽買咗半打雞蛋，一共要畀幾多錢？",
+          "en": "Each carton of eggs costs $28. Mum bought half dozen cartons of eggs. How much should she pay?"
+        },
+        "guided_steps": [
+          "1 打係 12 盒，半打雞蛋即係有 6 盒，算式係 28 × 6。",
+          "拆數計：20 × 6 = 120，8 × 6 = 48。",
+          "將兩個數加埋，媽媽一共要畀幾多錢？"
+        ],
+        "answer": {
+          "zh": "她一共要畀 168 元（或 $168）。",
+          "en": "She should pay 168 dollars (or $168)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "每個書包要 $215。學校買咗半打書包做禮物，一共要畀幾多錢？",
+          "en": "Each school bag costs $215. The school bought half dozen school bags as gifts. How much should they pay?"
+        },
+        "guided_steps": [
+          "半打即係 6 個書包，算式係 215 × 6。",
+          "先乘個位 5 × 6 = 30（寫 0 進 3），再乘十位 1 × 6 + 3 = 9。",
+          "再乘百位 2 × 6 = 12，合共要畀幾多錢？"
+        ],
+        "answer": {
+          "zh": "學校一共要畀 1290 元（或 $1290）。",
+          "en": "They should pay 1290 dollars (or $1290)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "精明小買家：隱形人數陷阱與三位數乘法大挑戰",
+    "topic_id": "money-mult-11",
+    "title": "睇戲買飛嘅隱形人數陷阱",
+    "demo_question": {
+      "zh": "電影《3D 魔法學校》每張戲飛要 $135。Carson 同佢 2 個朋友一齊去睇呢套戲，一共要畀幾多錢？",
+      "en": "Each ticket for the movie '3D Magical School' costs $135. Carson and his 2 friends are going to watch this movie together. How much should they pay?"
+    },
+    "kid_solution_steps": [
+      "數總人數：Carson（1 個）+ 2 個朋友 = 3 個人（買 3 張飛），列式：135 × 3",
+      "乘個位：5 × 3 = 15，寫 5 進 1",
+      "乘十位：3 × 3 + 1 = 10，寫 0 進 1",
+      "乘百位：1 × 3 + 1 = 4，合共 405（$405）"
+    ],
+    "final_answer": {
+      "zh": "他們一共要畀 405 元（或 $405）。",
+      "en": "They should pay 405 dollars (or $405)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "遊樂場每張入場飛要 $120。阿明同佢 3 個同學一齊去玩，一共要畀幾多錢？",
+          "en": "Each admission ticket to the playground costs $120. Ming and his 3 classmates are going to play together. How much should they pay?"
+        },
+        "guided_steps": [
+          "阿明自己（1 個）加 3 個同學一共 4 個人，算式係 120 × 4。",
+          "拆數計：100 × 4 = 400，20 × 4 = 80。",
+          "將兩個數加埋，佢哋一共要畀幾多錢？"
+        ],
+        "answer": {
+          "zh": "他們一共要畀 480 元（或 $480）。",
+          "en": "They should pay 480 dollars (or $480)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "主題樂園每張套票要 $248。家姐同佢 4 個朋友一齊去玩，一共要畀幾多錢？",
+          "en": "Each theme park pass costs $248. Sister and her 4 friends are going to play together. How much should they pay?"
+        },
+        "guided_steps": [
+          "家姐（1 個）+ 4 個朋友 = 5 個人，算式係 248 × 5。",
+          "先乘個位 8 × 5 = 40（寫 0 進 4），再乘十位 4 × 5 + 4 = 24（寫 4 進 2）。",
+          "再乘百位 2 × 5 + 2 = 12，合共要畀幾多錢？"
+        ],
+        "answer": {
+          "zh": "她們一共要畀 1240 元（或 $1240）。",
+          "en": "They should pay 1240 dollars (or $1240)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "連乘大闖關：層層包裝總數大挑戰",
+    "topic_id": "mult-chain-12",
+    "title": "牙刷工廠嘅三層包裝秘密",
+    "demo_question": {
+      "zh": "每箱有 246 包牙刷，每包有 4 支牙刷。咁 3 箱一共有幾多支牙刷？",
+      "en": "There are 246 packs of toothbrushes in each box. There are 4 toothbrushes in each pack. How many toothbrushes are there in 3 boxes?"
+    },
+    "kid_solution_steps": [
+      "列連乘算式：4 × 246 × 3（或 246 × 4 × 3）",
+      "第一關（計 1 箱）：246 × 4 = 984（支）",
+      "第二關（計 3 箱）：984 × 3 = 2952（支）"
+    ],
+    "final_answer": {
+      "zh": "3 箱一共有 2952 支牙刷。",
+      "en": "There are 2952 toothbrushes in 3 boxes."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "每大盒有 125 排朱古力，每排有 2 粒朱古力。咁 4 大盒一共有幾多粒朱古力？",
+          "en": "There are 125 bars of chocolate in each big box. There are 2 pieces of chocolate in each bar. How many pieces of chocolate are there in 4 big boxes?"
+        },
+        "guided_steps": [
+          "連乘算式係 2 × 125 × 4（或 125 × 2 × 4）。",
+          "第一關先計 1 大盒：125 × 2 = 250（粒）。",
+          "第二關再計 4 大盒：250 × 4 等於幾多粒？"
+        ],
+        "answer": {
+          "zh": "4 大盒一共有 1000 粒朱古力。",
+          "en": "There are 1000 pieces of chocolate in 4 big boxes."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "每箱有 134 盒顏色筆，每盒有 6 支顏色筆。咁 5 箱一共有幾多支顏色筆？",
+          "en": "There are 134 boxes of colour pencils in each carton. There are 6 colour pencils in each box. How many colour pencils are there in 5 cartons?"
+        },
+        "guided_steps": [
+          "連乘算式係 6 × 134 × 5（或 134 × 6 × 5）。",
+          "第一關先計 1 箱：134 × 6 = 804（支）。",
+          "第二關再計 5 箱：804 × 5 等於幾多支？"
+        ],
+        "answer": {
+          "zh": "5 箱一共有 4020 支顏色筆。",
+          "en": "There are 4020 colour pencils in 5 cartons."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：三針時鐘計經過時間（分與秒）大挑戰",
+    "topic_id": "time-clock-13",
+    "question_type": "visual_clock_duration",
+    "title": "搭巴士返學嘅分秒秘密",
+    "visual_assets": {
+      "renderer": "svg_analog_clock_3hands",
+      "start_clock": { "h": 7, "m": 12, "s": 28, "label_zh": "上車時間", "label_en": "Boarding" },
+      "end_clock": { "h": 7, "m": 48, "s": 52, "label_zh": "落車時間", "label_en": "Alighting" }
+    },
+    "demo_question": {
+      "zh": "睇下兩個時鐘顯示嘅時間（上車：7 時 12 分 28 秒；落車：7 時 48 分 52 秒）。妹妹由上巴士到落巴士，一共用咗幾多分鐘幾多秒？",
+      "en": "Look at the two clocks (Boarding: 7:12:28; Alighting: 7:48:52). How many minutes and seconds did it take for the girl to take the bus?"
+    },
+    "kid_solution_steps": [
+      "讀出上車鐘面：7 時 12 分 28 秒",
+      "讀出落車鐘面：7 時 48 分 52 秒",
+      "先計秒數：52 秒 - 28 秒 = 24 秒",
+      "再計分鐘：48 分 - 12 分 = 36 分"
+    ],
+    "final_answer": {
+      "zh": "一共用咗 36 分鐘 24 秒。",
+      "en": "It took 36 minutes and 24 seconds."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "visual_assets": {
+          "renderer": "svg_analog_clock_3hands",
+          "start_clock": { "h": 10, "m": 15, "s": 10 },
+          "end_clock": { "h": 10, "m": 28, "s": 45 }
+        },
+        "question": {
+          "zh": "小明喺 10 時 15 分 10 秒開始食茶點，食到 10 時 28 分 45 秒食完。佢一共用咗幾多分鐘幾多秒？",
+          "en": "Ming started eating his snack at 10:15:10 and finished at 10:28:45. How many minutes and seconds did it take?"
+        },
+        "guided_steps": [
+          "先計秒數：45 秒 - 10 秒 = 35 秒。",
+          "再計分鐘：28 分 - 15 分 = 13 分。",
+          "合埋寫出用咗幾多分鐘幾多秒。"
+        ],
+        "answer": {
+          "zh": "一共用咗 13 分鐘 35 秒。",
+          "en": "It took 13 minutes and 35 seconds."
+        }
+      },
+      {
+        "level": "challenge",
+        "visual_assets": {
+          "renderer": "svg_analog_clock_3hands",
+          "start_clock": { "h": 3, "m": 20, "s": 40 },
+          "end_clock": { "h": 3, "m": 45, "s": 15 }
+        },
+        "question": {
+          "zh": "家姐喺 3 時 20 分 40 秒開始砌積木，砌到 3 時 45 分 15 秒完成。佢一共用咗幾多分鐘幾多秒？",
+          "en": "Sister started building blocks at 3:20:40 and finished at 3:45:15. How many minutes and seconds did it take?"
+        },
+        "guided_steps": [
+          "15 秒唔夠減 40 秒，向 45 分借 1 分鐘（60 秒），變成 44 分 75 秒。",
+          "先計秒數：75 秒 - 40 秒 = 35 秒。",
+          "再計分鐘：44 分 - 20 分 = 24 分，合共幾多分鐘幾多秒？"
+        ],
+        "answer": {
+          "zh": "一共用咗 24 分鐘 35 秒。",
+          "en": "It took 24 minutes and 35 seconds."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：電子鐘計經過時間（分與秒）大挑戰",
+    "topic_id": "time-digital-14",
+    "question_type": "digital_clock_duration",
+    "title": "包禮物嘅電子鐘計時秘密",
+    "visual_assets": {
+      "renderer": "ui_digital_clock_hms",
+      "period": "p.m.",
+      "start_clock": { "h": 5, "m": 23, "s": 6, "period": "p.m.", "label_zh": "開始包禮物", "label_en": "Start Wrapping" },
+      "end_clock": { "h": 5, "m": 29, "s": 18, "period": "p.m.", "label_zh": "包好禮物", "label_en": "Finish Wrapping" }
+    },
+    "demo_question": {
+      "zh": "睇下兩個電子鐘顯示嘅時間（開始：下午 5 時 23 分 06 秒；完成：下午 5 時 29 分 18 秒）。妹妹由開始包禮物到包好禮物，一共用咗幾多分鐘幾多秒？",
+      "en": "Look at the two digital clocks (Start: 5:23:06 p.m.; End: 5:29:18 p.m.). How many minutes and seconds did it take for the girl to wrap the gift?"
+    },
+    "kid_solution_steps": [
+      "讀出開始時間：下午 5 時 23 分 06 秒（6 秒）",
+      "讀出完成時間：下午 5 時 29 分 18 秒",
+      "先計秒數：18 秒 - 6 秒 = 12 秒",
+      "再計分鐘：29 分 - 23 分 = 6 分"
+    ],
+    "final_answer": {
+      "zh": "一共用咗 6 分鐘 12 秒。",
+      "en": "It took 6 minutes and 12 seconds."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "visual_assets": {
+          "renderer": "ui_digital_clock_hms",
+          "period": "p.m.",
+          "start_clock": { "h": 2, "m": 10, "s": 5, "period": "p.m." },
+          "end_clock": { "h": 2, "m": 14, "s": 39, "period": "p.m." }
+        },
+        "question": {
+          "zh": "電子鐘顯示哥哥喺下午 2 時 10 分 05 秒開始摺紙飛機，喺下午 2 時 14 分 39 秒摺好。佢一共用咗幾多分鐘幾多秒？",
+          "en": "The digital clock shows that brother started folding a paper plane at 2:10:05 p.m. and finished at 2:14:39 p.m. How many minutes and seconds did it take?"
+        },
+        "guided_steps": [
+          "先計秒數：39 秒 - 5 秒 = 34 秒。",
+          "再計分鐘：14 分 - 10 分 = 4 分。",
+          "合埋寫出用咗幾多分鐘幾多秒。"
+        ],
+        "answer": {
+          "zh": "一共用咗 4 分鐘 34 秒。",
+          "en": "It took 4 minutes and 34 seconds."
+        }
+      },
+      {
+        "level": "challenge",
+        "visual_assets": {
+          "renderer": "ui_digital_clock_hms",
+          "period": "p.m.",
+          "start_clock": { "h": 6, "m": 18, "s": 42, "period": "p.m." },
+          "end_clock": { "h": 6, "m": 25, "s": 10, "period": "p.m." }
+        },
+        "question": {
+          "zh": "電子鐘顯示家姐喺下午 6 時 18 分 42 秒開始做功課，喺下午 6 時 25 分 10 秒做完。佢一共用咗幾多分鐘幾多秒？",
+          "en": "The digital clock shows that sister started doing homework at 6:18:42 p.m. and finished at 6:25:10 p.m. How many minutes and seconds did it take?"
+        },
+        "guided_steps": [
+          "10 秒唔夠減 42 秒，向 25 分借 1 分鐘（60 秒），變成 24 分 70 秒。",
+          "先計秒數：70 秒 - 42 秒 = 28 秒。",
+          "再計分鐘：24 分 - 18 分 = 6 分，合共幾多分鐘幾多秒？"
+        ],
+        "answer": {
+          "zh": "一共用咗 6 分鐘 28 秒。",
+          "en": "It took 6 minutes and 28 seconds."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：經過時間推算結束時間（分與秒）大挑戰",
+    "topic_id": "time-end-15",
+    "question_type": "time_start_plus_elapsed",
+    "title": "睇牙醫嘅過午時間秘密",
+    "visual_assets": {
+      "renderer": "svg_analog_clock_3hands",
+      "start_clock": { "h": 11, "m": 20, "s": 15, "period": "a.m.", "label_zh": "開始時間", "label_en": "Start Time" },
+      "elapsed_time": { "m": 32, "s": 21, "label_zh": "經過時間", "label_en": "Elapsed Time" },
+      "end_clock": { "h": 12, "m": 52, "s": 36, "period": "p.m.", "label_zh": "結束時間", "label_en": "End Time" }
+    },
+    "demo_question": {
+      "zh": "哥哥喺上午 11 時 20 分 15 秒開始睇牙醫，經過 32 分鐘 21 秒之後睇完。睇完嗰陣係幾點幾分幾秒？（注意上午同下午嘅分別）",
+      "en": "Brother started seeing the dentist at 11:20:15 in the morning. After 32 minutes and 21 seconds, he finished. What time was it when he finished? (Pay attention to morning/afternoon)"
+    },
+    "kid_solution_steps": [
+      "起點時間：上午 11 時 20 分 15 秒；經過：+ 32 分鐘 21 秒",
+      "先加秒數：15 秒 + 21 秒 = 36 秒",
+      "再加分鐘：20 分 + 32 分 = 52 分",
+      "判斷時段：上午 11 時加 52 分已過中午 12 點，變成下午 12 時 52 分 36 秒"
+    ],
+    "final_answer": {
+      "zh": "睇完嗰陣係下午 12 時 52 分 36 秒。",
+      "en": "It was 12:52:36 in the afternoon (or 12:52:36 p.m.)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "visual_assets": {
+          "renderer": "svg_analog_clock_3hands",
+          "start_clock": { "h": 9, "m": 10, "s": 12, "period": "a.m." },
+          "elapsed_time": { "m": 24, "s": 18 },
+          "end_clock": { "h": 9, "m": 44, "s": 30, "period": "a.m." }
+        },
+        "question": {
+          "zh": "小明喺上午 9 時 10 分 12 秒搭小巴出發，經過 24 分鐘 18 秒之後到達目的地。到達嗰陣係幾點幾分幾秒？",
+          "en": "Ming left by minibus at 9:10:12 in the morning. After 24 minutes and 18 seconds, he arrived at the destination. What time was it when he arrived?"
+        },
+        "guided_steps": [
+          "先加秒數：12 秒 + 18 秒 = 30 秒。",
+          "再加分鐘：10 分 + 24 分 = 34 分。",
+          "上午 9 時 10 分加 34 分未過 12 點，仍然係上午幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "到達嗰陣係上午 9 時 44 分 30 秒。",
+          "en": "It was 9:44:30 in the morning (or 9:44:30 a.m.)."
+        }
+      },
+      {
+        "level": "challenge",
+        "visual_assets": {
+          "renderer": "svg_analog_clock_3hands",
+          "start_clock": { "h": 11, "m": 35, "s": 40, "period": "a.m." },
+          "elapsed_time": { "m": 20, "s": 30 },
+          "end_clock": { "h": 12, "m": 56, "s": 10, "period": "p.m." }
+        },
+        "question": {
+          "zh": "媽媽喺上午 11 時 35 分 40 秒開始煲湯，經過 20 分鐘 30 秒之後熄火。熄火嗰陣係幾點幾分幾秒？（注意上午同下午）",
+          "en": "Mum started making soup at 11:35:40 in the morning. After 20 minutes and 30 seconds, she turned off the stove. What time was it when she turned off the stove? (Pay attention to morning/afternoon)"
+        },
+        "guided_steps": [
+          "先加秒數：40 秒 + 30 秒 = 70 秒；60 秒換 1 分鐘，剩低 10 秒。",
+          "再加分鐘：35 分 + 20 分 + 進位 1 分 = 56 分。",
+          "上午 11 時加 56 分已過中午 12 點，變成下午幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "熄火嗰陣係下午 12 時 56 分 10 秒。",
+          "en": "It was 12:56:10 in the afternoon (or 12:56:10 p.m.)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：倒推開始時間（時、分、秒）大挑戰",
+    "topic_id": "time-start-16",
+    "question_type": "digital_clock_start_from_end",
+    "title": "睇藍精靈電影嘅時光倒流秘密",
+    "visual_assets": {
+      "renderer": "ui_digital_clock_hms",
+      "start_clock": { "h": 3, "m": 11, "s": 10, "period": "p.m.", "label_zh": "開始時間", "label_en": "Start Time" },
+      "elapsed_time": { "h": 2, "m": 2, "s": 15, "label_zh": "經過時間", "label_en": "Elapsed Time" },
+      "end_clock": { "h": 5, "m": 13, "s": 25, "period": "p.m.", "label_zh": "結束時間", "label_en": "End Time" }
+    },
+    "demo_question": {
+      "zh": "戲院散場嗰陣，電子鐘顯示下午 5 時 13 分 25 秒。套戲一共經過咗 2 小時 2 分鐘 15 秒。咁套戲係幾點幾分幾秒開始放映嘅呢？",
+      "en": "When the movie ended, the digital clock showed 5:13:25 p.m. After 2 h 2 min and 15 s, the movie finished. What time did the movie start?"
+    },
+    "kid_solution_steps": [
+      "結束時間：下午 5 時 13 分 25 秒；倒推減去：2 小時 2 分鐘 15 秒",
+      "先減秒數：25 秒 - 15 秒 = 10 秒",
+      "再減分鐘：13 分 - 2 分 = 11 分",
+      "最後減小時：5 時 - 2 時 = 3 時（下午）"
+    ],
+    "final_answer": {
+      "zh": "套戲係下午 3 時 11 分 10 秒開始放映嘅。",
+      "en": "The movie started at 3:11:10 p.m."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "visual_assets": {
+          "renderer": "ui_digital_clock_hms",
+          "start_clock": { "h": 3, "m": 33, "s": 24, "period": "p.m." },
+          "elapsed_time": { "h": 1, "m": 15, "s": 12 },
+          "end_clock": { "h": 4, "m": 48, "s": 36, "period": "p.m." }
+        },
+        "question": {
+          "zh": "哥哥踩完單車返到屋企，電子鐘顯示下午 4 時 48 分 36 秒。佢一共踩咗 1 小時 15 分鐘 12 秒。咁佢係幾點幾分幾秒出發嘅呢？",
+          "en": "When brother finished cycling and got home, the digital clock showed 4:48:36 p.m. He cycled for 1 h 15 min and 12 s. What time did he set off?"
+        },
+        "guided_steps": [
+          "先減秒數：36 秒 - 12 秒 = 24 秒。",
+          "再減分鐘：48 分 - 15 分 = 33 分。",
+          "最後減小時：下午 4 時 - 1 小時 = 下午 3 時，合共係幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "佢係下午 3 時 33 分 24 秒出發嘅。",
+          "en": "He set off at 3:33:24 p.m."
+        }
+      },
+      {
+        "level": "challenge",
+        "visual_assets": {
+          "renderer": "ui_digital_clock_hms",
+          "start_clock": { "h": 10, "m": 14, "s": 35, "period": "a.m." },
+          "elapsed_time": { "h": 1, "m": 10, "s": 35 },
+          "end_clock": { "h": 11, "m": 25, "s": 10, "period": "a.m." }
+        },
+        "question": {
+          "zh": "畫畫比賽喺上午 11 時 25 分 10 秒結束，比賽一共用咗 1 小時 10 分鐘 35 秒。咁比賽係幾點幾分幾秒開始嘅呢？",
+          "en": "The drawing competition ended at 11:25:10 a.m. The competition lasted 1 h 10 min and 35 s. What time did the competition start?"
+        },
+        "guided_steps": [
+          "10 秒唔夠減 35 秒，向 25 分借 1 分鐘（60 秒），變成 24 分 70 秒；先計 70 秒 - 35 秒 = 35 秒。",
+          "再減分鐘：24 分 - 10 分 = 14 分。",
+          "最後減小時：上午 11 時 - 1 小時 = 上午 10 時，比賽係幾點幾分幾秒開始？"
+        ],
+        "answer": {
+          "zh": "比賽係上午 10 時 14 分 35 秒開始嘅。",
+          "en": "The competition started at 10:14:35 a.m."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：校際問答比賽大挑戰",
+    "topic_id": "quiz-time-17",
+    "question_type": "visual_clock_read_hms",
+    "title": "校際問答比賽嘅開波鐘面",
+    "visual_assets": {
+      "renderer": "svg_analog_clock_3hands",
+      "clock": { "h": 4, "m": 15, "s": 40, "period": "p.m.", "label_zh": "比賽開始時間", "label_en": "Quiz Start Time" }
+    },
+    "demo_question": {
+      "zh": "右邊嘅三針時鐘顯示「校際問答比賽」嘅開始時間。比賽喺下午開始，當時係幾點幾分幾秒？",
+      "en": "The clock on the right shows the start time of the Interschool Quiz. The time was in the afternoon. What time was it?"
+    },
+    "kid_solution_steps": [
+      "時針喺 4 同 5 之間，配合下午：4 時（下午）",
+      "分針指住 3：3 × 5 = 15 分",
+      "秒針指住 8：8 × 5 = 40 秒"
+    ],
+    "final_answer": {
+      "zh": "當時係下午 4 時 15 分 40 秒。",
+      "en": "The time was four fifteen and forty seconds in the afternoon (or 4:15:40 p.m.)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "visual_assets": {
+          "renderer": "svg_analog_clock_3hands",
+          "clock": { "h": 2, "m": 20, "s": 30, "period": "a.m." }
+        },
+        "question": {
+          "zh": "一個三針時鐘顯示：時針喺 2 同 3 之間，分針指住 4 字，秒針指住 6 字，時間係喺上午。當時係幾點幾分幾秒？",
+          "en": "A three-hand clock shows: the hour hand is between 2 and 3, the minute hand points to 4, and the second hand points to 6, in the morning. What time was it?"
+        },
+        "guided_steps": [
+          "時針喺 2 同 3 之間，上午 2 時。",
+          "分針指住 4：4 × 5 = 20 分。",
+          "秒針指住 6：6 × 5 = 30 秒，合共係幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "當時係上午 2 時 20 分 30 秒。",
+          "en": "The time was two twenty and thirty seconds in the morning (or 2:20:30 a.m.)."
+        }
+      },
+      {
+        "level": "challenge",
+        "visual_assets": {
+          "renderer": "svg_analog_clock_3hands",
+          "clock": { "h": 6, "m": 37, "s": 53, "period": "p.m." }
+        },
+        "question": {
+          "zh": "一個三針時鐘顯示：時針喺 6 同 7 之間，分針指住 7 字後第 2 小格，秒針指住 10 字後第 3 小格，時間係喺下午。當時係幾點幾分幾秒？",
+          "en": "A three-hand clock shows: the hour hand is between 6 and 7, the minute hand points to 2 small ticks past 7, and the second hand points to 3 small ticks past 10, in the afternoon. What time was it?"
+        },
+        "guided_steps": [
+          "時針喺 6 同 7 之間，下午 6 時。",
+          "分針指住 7 字後 2 格：7 × 5 + 2 = 37 分。",
+          "秒針指住 10 字後 3 格：10 × 5 + 3 = 53 秒，合共係幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "當時係下午 6 時 37 分 53 秒。",
+          "en": "The time was six thirty-seven and fifty-three seconds in the afternoon (or 6:37:53 p.m.)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：校際問答比賽大挑戰",
+    "topic_id": "quiz-time-18",
+    "question_type": "time_start_plus_elapsed",
+    "title": "「快問快答」環節幾時完？",
+    "visual_assets": {
+      "renderer": "svg_analog_clock_3hands",
+      "start_clock": { "h": 4, "m": 36, "s": 16, "period": "p.m." },
+      "elapsed_time": { "m": 5, "s": 30 },
+      "end_clock": { "h": 4, "m": 41, "s": 46, "period": "p.m." }
+    },
+    "demo_question": {
+      "zh": "第一部分「快問快答」喺下午 4 時 36 分 16 秒開始，呢個部分進行咗 5 分鐘 30 秒。呢個部分喺幾點幾分幾秒結束？",
+      "en": "The first part 'Quick Answer' started at 4:36:16 in the afternoon. This part ran for 5 minutes and 30 seconds. This part ended at what time in the morning/afternoon?"
+    },
+    "kid_solution_steps": [
+      "先加秒數：16 秒 + 30 秒 = 46 秒",
+      "再加分鐘：36 分 + 5 分 = 41 分",
+      "保留時段：下午 4 時 41 分 46 秒"
+    ],
+    "final_answer": {
+      "zh": "呢個部分喺下午 4 時 41 分 46 秒結束。",
+      "en": "This part ended at four forty-one and forty-six seconds in the afternoon (or 4:41:46 p.m.)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "「必答題」喺下午 2 時 12 分 20 秒開始，進行咗 8 分鐘 25 秒。呢個部分喺幾點幾分幾秒結束？",
+          "en": "'Must Answer' started at 2:12:20 in the afternoon. This part ran for 8 minutes and 25 seconds. This part ended at what time?"
+        },
+        "guided_steps": [
+          "先加秒數：20 秒 + 25 秒 = 45 秒。",
+          "再加分鐘：12 分 + 8 分 = 20 分。",
+          "合埋寫出下午幾點幾分幾秒結束。"
+        ],
+        "answer": {
+          "zh": "呢個部分喺下午 2 時 20 分 45 秒結束。",
+          "en": "This part ended at two twenty and forty-five seconds in the afternoon (or 2:20:45 p.m.)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "「搶答題」喺下午 3 時 45 分 35 秒開始，進行咗 10 分鐘 40 秒。呢個部分喺幾點幾分幾秒結束？",
+          "en": "'Buzzer Round' started at 3:45:35 in the afternoon. This part ran for 10 minutes and 40 seconds. This part ended at what time?"
+        },
+        "guided_steps": [
+          "先加秒數：35 秒 + 40 秒 = 75 秒；60 秒換 1 分鐘，剩低 15 秒。",
+          "再加分鐘：45 分 + 10 分 + 進位 1 分 = 56 分。",
+          "合埋寫出下午幾點幾分幾秒結束。"
+        ],
+        "answer": {
+          "zh": "呢個部分喺下午 3 時 56 分 15 秒結束。",
+          "en": "This part ended at three fifty-six and fifteen seconds in the afternoon (or 3:56:15 p.m.)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：校際問答比賽大挑戰",
+    "topic_id": "quiz-time-19",
+    "question_type": "grouped_digital_comparison",
+    "title": "「拼圖遊戲」計時大比拼",
+    "visual_assets": {
+      "renderer": "ui_digital_clock_hms",
+      "period": "p.m.",
+      "start_clock": { "h": 5, "m": 10, "s": 5, "period": "p.m." },
+      "end_clock": { "h": 5, "m": 10, "s": 53, "period": "p.m." }
+    },
+    "demo_question": {
+      "zh": "第二部分「拼圖遊戲」，電子鐘顯示 Passionate Primary School 由 5:10 05 p.m. 砌到 5:10 53 p.m.。(a) Passionate Primary School 用咗幾多秒完成拼圖？ (b) Macao Primary School 用咗 1 分鐘 5 秒完成拼圖，比 Passionate Primary School 快（faster）定慢（slower）幾多秒？",
+      "en": "In the second part 'Puzzle Game', the digital clocks show Passionate Primary School from 5:10:05 p.m. to 5:10:53 p.m. (a) Passionate Primary School completed the puzzle in how many seconds? (b) Macao Primary School completed the puzzle in 1 minute and 5 seconds, which was how many seconds faster / slower than Passionate Primary School?"
+    },
+    "sub_questions": [
+      {
+        "label": "a",
+        "question": {
+          "zh": "Passionate Primary School 用咗幾多秒完成拼圖？",
+          "en": "Passionate Primary School completed the puzzle in how many seconds?"
+        },
+        "answer": { "zh": "48 秒", "en": "48 seconds" }
+      },
+      {
+        "label": "b",
+        "question": {
+          "zh": "Macao Primary School 用咗 1 分鐘 5 秒完成拼圖，比 Passionate Primary School 快（faster）定慢（slower）幾多秒？",
+          "en": "Macao Primary School completed the puzzle in 1 minute and 5 seconds, which was how many seconds faster / slower than Passionate Primary School?"
+        },
+        "answer": { "zh": "慢（slower）17 秒", "en": "17 seconds slower" }
+      }
+    ],
+    "kid_solution_steps": [
+      "(a) 秒數相減：53 秒 - 5 秒 = 48 秒",
+      "(b) 單位換算：1 分鐘 5 秒 = 60 + 5 = 65 秒",
+      "(b) 比較快慢：65 秒 > 48 秒，用得耐啲即係慢（slower），相差 65 - 48 = 17 秒"
+    ],
+    "final_answer": {
+      "zh": "(a) Passionate Primary School 用咗 48 秒完成拼圖。 (b) 比 Passionate Primary School 慢（slower）17 秒。",
+      "en": "(a) Passionate Primary School completed the puzzle in 48 seconds. (b) Macao Primary School completed the puzzle in 1 minute and 5 seconds, which was 17 seconds slower than Passionate Primary School."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "接力跑比賽，甲隊由 3:20 10 a.m. 跑到 3:20 42 a.m.。(a) 甲隊用咗幾多秒？ (b) 乙隊用咗 50 秒完成，比甲隊快（faster）定慢（slower）幾多秒？",
+          "en": "In a relay race, Team A ran from 3:20:10 a.m. to 3:20:42 a.m. (a) How many seconds did Team A take? (b) Team B finished in 50 seconds, which was how many seconds faster / slower than Team A?"
+        },
+        "guided_steps": [
+          "(a) 42 秒 - 10 秒 = 32 秒。",
+          "(b) 乙隊用 50 秒比 32 秒多，所以係慢（slower）。",
+          "50 秒 - 32 秒 = 18 秒。"
+        ],
+        "answer": {
+          "zh": "(a) 甲隊用咗 32 秒。 (b) 比甲隊慢（slower）18 秒。",
+          "en": "(a) Team A took 32 seconds. (b) Team B finished in 50 seconds, which was 18 seconds slower than Team A."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "砌魔方比賽，小文由 1:15 12 p.m. 砌到 1:15 57 p.m.。(a) 小文用咗幾多秒？ (b) 小明用咗 38 秒完成，比小文快（faster）定慢（slower）幾多秒？",
+          "en": "In a Rubik's Cube contest, Man solved it from 1:15:12 p.m. to 1:15:57 p.m. (a) How many seconds did Man take? (b) Ming finished in 38 seconds, which was how many seconds faster / slower than Man?"
+        },
+        "guided_steps": [
+          "(a) 57 秒 - 12 秒 = 45 秒。",
+          "(b) 小明用 38 秒比 45 秒少，所以係快（faster）。",
+          "45 秒 - 38 秒 = 7 秒。"
+        ],
+        "answer": {
+          "zh": "(a) 小文用咗 45 秒。 (b) 比小文快（faster）7 秒。",
+          "en": "(a) Man took 45 seconds. (b) Ming finished in 38 seconds, which was 7 seconds faster than Man."
+        }
+      }
+    ]
+  },
+  {
+    "category": "時間小偵探：校際問答比賽大挑戰",
+    "topic_id": "quiz-time-20",
+    "question_type": "digital_clock_start_from_end",
+    "title": "校際問答比賽幾點開始？",
+    "visual_assets": {
+      "renderer": "ui_digital_clock_hms",
+      "start_clock": { "h": 4, "m": 15, "s": 6, "period": "p.m." },
+      "elapsed_time": { "h": 2, "m": 13, "s": 40 },
+      "end_clock": { "h": 6, "m": 28, "s": 46, "period": "p.m." }
+    },
+    "demo_question": {
+      "zh": "「校際問答比賽」喺下午 6 時 28 分 46 秒結束，成個活動一共進行咗 2 小時 13 分鐘 40 秒。咁成個活動係幾點幾分幾秒開始嘅呢？",
+      "en": "The Interschool Quiz ended at six twenty-eight and forty-six seconds in the afternoon. The whole event ran for 2 hours, 13 minutes and 40 seconds. What time did the whole event start?"
+    },
+    "kid_solution_steps": [
+      "先減秒數：46 秒 - 40 秒 = 06 秒",
+      "再減分鐘：28 分 - 13 分 = 15 分",
+      "最後減小時：6 時 - 2 時 = 4 時（下午 4 時 15 分 06 秒）"
+    ],
+    "final_answer": {
+      "zh": "成個活動係下午 4 時 15 分 06 秒開始嘅。",
+      "en": "The whole event started at four fifteen and six seconds in the afternoon (or 4:15:06 p.m.)."
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "運動會喺下午 5 時 45 分 50 秒結束，一共進行咗 1 小時 20 分鐘 30 秒。咁運動會係幾點幾分幾秒開始嘅呢？",
+          "en": "The sports day ended at 5:45:50 in the afternoon. The whole event ran for 1 hour, 20 minutes and 30 seconds. What time did it start?"
+        },
+        "guided_steps": [
+          "先減秒數：50 秒 - 30 秒 = 20 秒。",
+          "再減分鐘：45 分 - 20 分 = 25 分。",
+          "最後減小時：下午 5 時 - 1 小時 = 下午 4 時，合共係幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "運動會係下午 4 時 25 分 20 秒開始嘅。",
+          "en": "It started at four twenty-five and twenty seconds in the afternoon (or 4:25:20 p.m.)."
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "音樂會喺下午 8 時 15 分 48 秒結束，一共進行咗 1 小時 35 分鐘 12 秒。咁音樂會係幾點幾分幾秒開始嘅呢？",
+          "en": "The concert ended at 8:15:48 in the afternoon. The whole event ran for 1 hour, 35 minutes and 12 seconds. What time did it start?"
+        },
+        "guided_steps": [
+          "先減秒數：48 秒 - 12 秒 = 36 秒。",
+          "15 分唔夠減 35 分，向 8 時借 1 小時（60 分），變成 7 時 75 分；75 分 - 35 分 = 40 分。",
+          "最後減小時：7 時 - 1 小時 = 下午 6 時，合共係幾點幾分幾秒？"
+        ],
+        "answer": {
+          "zh": "音樂會係下午 6 時 40 分 36 秒開始嘅。",
+          "en": "It started at six forty and thirty-six seconds in the afternoon (or 6:40:36 p.m.)."
+        }
+      }
+    ]
+  },
+  {
+    "category": "長度測量小偵探：單位換算大挑戰",
+    "topic_id": "unit-convert-21",
+    "question_type": "unit_conversion_single_unit",
+    "title": "跑馬拉松同單位變身秘密",
+    "demo_question": {
+      "zh": "1 公里（km）等於 1000 米（m），1 米（m）等於 100 厘米（cm）。試將 10 km 40 m 寫做以「m」做單位嘅單一長度。",
+      "en": "1 km = 1000 m and 1 m = 100 cm. Record 10 km 40 m in a single unit (m)."
+    },
+    "kid_solution_steps": [
+      "換 km 做 m：10 km = 10000 m",
+      "加埋原本嘅 m：10000 m + 40 m = 10040 m"
+    ],
+    "final_answer": {
+      "zh": "10040 m",
+      "en": "10040 m"
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "記錄以下長度為單一單位：(a) 8 km 600 cm = 幾多 m？ (b) 3 km = 幾多 cm？",
+          "en": "Record each measurement in a single unit: (a) 8 km 600 cm = how many m? (b) 3 km = how many cm?"
+        },
+        "guided_steps": [
+          "(a) 8 km = 8000 m，600 cm = 6 m，合埋係幾多 m？",
+          "(b) 3 km = 3000 m，再乘 100 換做 cm，等於幾多 cm？"
+        ],
+        "answer": {
+          "zh": "(a) 8006 m； (b) 300000 cm",
+          "en": "(a) 8006 m; (b) 300000 cm"
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "記錄以下長度為單一單位：(a) 90000 m = 幾多 km？ (b) 一場馬拉松全長 42 公里，即係幾多 metres（m）？",
+          "en": "Record each measurement in a single unit: (a) 90000 m = how many km? (b) A marathon is 42 kilometres long, which is how many metres?"
+        },
+        "guided_steps": [
+          "(a) 90000 m 除以 1000 換做 km，等於幾多 km？",
+          "(b) 42 公里乘 1000 換做米，等於幾多 metres？"
+        ],
+        "answer": {
+          "zh": "(a) 90 km； (b) 42000 metres",
+          "en": "(a) 90 km; (b) 42000 metres"
+        }
+      }
+    ]
+  },
+  {
+    "category": "長度測量小偵探：揀選合適長度單位大挑戰",
+    "topic_id": "unit-choose-22",
+    "question_type": "unit_selection",
+    "title": "生活物件度一度，揀啱單位唔會錯",
+    "demo_question": {
+      "zh": "揀選合適嘅長度單位（km / m / cm / mm）：一支鉛筆嘅長度大約係 150 ____。",
+      "en": "Write the suitable measuring units (km / m / cm / mm): The length of a pencil is about 150 ____."
+    },
+    "kid_solution_steps": [
+      "對比單位大小：km（最長） > m > cm > mm（最短）",
+      "一支鉛筆約 15 cm = 150 mm，所以填 mm"
+    ],
+    "final_answer": {
+      "zh": "mm",
+      "en": "mm"
+    },
+    "practice": [
+      {
+        "level": "warmup",
+        "question": {
+          "zh": "喺 km / m / cm / mm 入面揀啱單位：(a) 一道門嘅高度通常大約係 210 ____； (b) 一間課室大約闊 30 ____。",
+          "en": "Choose the suitable unit from km / m / cm / mm: (a) The height of a door is usually around 210 ____; (b) A classroom is about 30 ____ wide."
+        },
+        "guided_steps": [
+          "(a) 門高約 2 米 = 210 cm，填 cm。",
+          "(b) 課室闊度約 30 米，填 m。"
+        ],
+        "answer": {
+          "zh": "(a) cm； (b) m",
+          "en": "(a) cm; (b) m"
+        }
+      },
+      {
+        "level": "challenge",
+        "question": {
+          "zh": "喺 km / m / cm / mm 入面揀啱單位：(a) Jacob 今朝踩單車嘅距離係 5 ____； (b) 地球到月球嘅距離大約係 384 400 ____。",
+          "en": "Choose the suitable unit from km / m / cm / mm: (a) Jacob cycled a distance of 5 ____ this morning; (b) The distance from the Earth to the Moon is about 384 400 ____."
+        },
+        "guided_steps": [
+          "(a) 踩單車路程 5 公里，填 km。",
+          "(b) 地球到月球距離極遠，填 km。"
+        ],
+        "answer": {
+          "zh": "(a) km； (b) km",
+          "en": "(a) km; (b) km"
+        }
+      }
+    ]
+  }
+]
